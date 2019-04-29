@@ -2,12 +2,18 @@
 
 ## Overview
 
-### This challenged based Azure Governance Challange Workshop is intended to teach how to design a well governed subscription. During this day you will be working with Azure Management Groups, Policy, Blueprints, Cost Management and Resource Graph.
+### This challenged based workshop is intended to teach how to design a well governed subscription. During this day you will be working with Azure Management Groups, Policy, Blueprints, Cost Management and Resource Graph.
 
-[Setup Guide](https://github.com/rkuehfus/pre-ready-2019-H1/blob/master/Student/Guides/Deployment%20Setup%20Guide.docx?raw=true)
+[Deployment Setup Guide](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Student/Deployment%20Setup%20Guide.docx?raw=true)
 
-[Challenges](https://github.com/rkuehfus/pre-ready-2019-H1/blob/master/Student/Guides/Challenges.pptx?raw=true)
+[Challenges](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Student/Challenges.pptx?raw=true)
 
+## Proctor \ Lab Guides for Challenges
+[Management Group and RBAC](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%201%20-%20Management%20Group%20and%20RBAC.docx?raw=true)
+[Azure Policy](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%202%20-%20Azure%20Policy.docx?raw=true)
+[Azure Blueprints](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%203-%20Azure%20Blueprints.docx?raw=true)
+[Azure Cost Management](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%204-%20Azure%20Cost%20Management.docx?raw=true)
+[Azure Resource Graph](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%205%20-%20Azure%20Resource%20Graph.docx?raw=true)
 
 ## Outcome
 
