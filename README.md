@@ -10,10 +10,15 @@
 
 ## Proctor \ Lab Guides for Challenges
 [Management Group and RBAC](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%201%20-%20Management%20Group%20and%20RBAC.docx?raw=true)
+
 [Azure Policy](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%202%20-%20Azure%20Policy.docx?raw=true)
+
 [Azure Blueprints](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%203-%20Azure%20Blueprints.docx?raw=true)
+
 [Azure Cost Management](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%204-%20Azure%20Cost%20Management.docx?raw=true)
+
 [Azure Resource Graph](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%205%20-%20Azure%20Resource%20Graph.docx?raw=true)
+
 
 ## Outcome
 
