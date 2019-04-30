@@ -8,6 +8,9 @@
 
 [Challenges](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Student/Challenges.pptx?raw=true)
 
+## Presentation
+[Azure Governance Overview](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Azure%20Governance.pptx?raw=true)
+
 ## Proctor \ Lab Guides for Challenges
 [Management Group and RBAC](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Host/Challenge%201%20-%20Management%20Group%20and%20RBAC.docx?raw=true)
 
