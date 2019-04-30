@@ -2,7 +2,7 @@
 
 ## Overview
 
-### This challenged based workshop is intended to teach how to design a well governed subscription. During this day you will be working with Azure Management Groups, Policy, Blueprints, Cost Management and Resource Graph.
+### This challenged based workshop is intended to teach how to design a well governed subscription. During this day you will be working with Azure Management Groups, RBAC, Policy, Blueprints, Cost Management and Resource Graph.
 
 [Deployment Setup Guide](https://github.com/rkuehfus/AzureGovernanceChallengeWorkshop/blob/master/Student/Deployment%20Setup%20Guide.docx?raw=true)
 
@@ -25,7 +25,7 @@
 
 ## Outcome
 
-### Understand How to design a well governed Azure Subscription, facilitate an Azure Governance customer conversation, and demo key tools that make up Azure Governance.
+### Understand how to design a well governed Azure Subscription, facilitate an Azure Governance customer conversation, and demo key tools that make up Azure Governance.
 
 ## Target Audience
 
