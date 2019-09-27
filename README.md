@@ -1,3 +1,5 @@
+## Note: This workshop is no longer maintained here.  Please navigate to this location for current version - https://github.com/faridabharmal/AzureGovernance
+
 # Azure Governance Challenge Workshop (1 day)
 
 ## Overview
